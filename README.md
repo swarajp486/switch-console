@@ -1,17 +1,17 @@
-# Switch Console AI 🚀
+# DevPilot AI 🚀
 ### Multi-Agent AI Development & API Monitoring using Switch Console, Cursor & Slack
 
 **Your AI-powered development workspace, accessible through Slack.**
 
 ## 🎥 Project Demo
 
-[![Watch Switch Console AI Demo](https://img.youtube.com/vi/vkqpB1x2XsE/maxresdefault.jpg)](https://youtu.be/vkqpB1x2XsE)
+[![Watch DevPilot AI Demo](https://img.youtube.com/vi/vkqpB1x2XsE/maxresdefault.jpg)](https://youtu.be/vkqpB1x2XsE)
 
 ▶️ **[Watch the Full Project Demonstration on YouTube](https://youtu.be/vkqpB1x2XsE)**
 
 ## 🚀 Overview
 
-Switch Console AI is a multi-agent AI workspace built entirely using **Switch Console**, integrated with **Cursor Agents** and **Slack**.
+DevPilot AI is a multi-agent AI workspace built entirely using **Switch Console**, integrated with **Cursor Agents** and **Slack**.
 
 The idea is simple: what if developers could manage development tasks, resolve bugs, and monitor application APIs just by chatting with AI agents through Slack?
 
